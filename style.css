@@ -1,0 +1,15 @@
+body {
+  background-color:blue;
+}
+.wrapper {
+  background-color: rgba(255, 255, 255, 0.28);
+  width:85%;
+  margin: 20px auto;
+  padding:4%;
+  
+  h1 {
+    text-align:center;
+    color:#fff;
+    font-family: sacramento;
+  }
+}
